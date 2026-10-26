@@ -1,0 +1,1 @@
+-- I checked and the issue is there was a mistake in the database url
